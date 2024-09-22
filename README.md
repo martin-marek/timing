@@ -1,6 +1,6 @@
 # Python timing
 
-Easily time your Python code.
+A trivial (~20 loc) utility to time Python functions and blocks of code.
 
 ```python
 import timing
